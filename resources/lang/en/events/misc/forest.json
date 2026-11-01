@@ -268,7 +268,8 @@
     "frequency": 3,
     "event_text": "m_c sees a flock of corvids swarm the fresh-kill pile and rushes to chase them off, though they've already made off with valuable prey. At least {PRONOUN/m_c/subject} {VERB/m_c/were/was} able to grab hold of some of their tail feathers.",
     "new_accessory": [
-      "BLUE FEATHERS"
+      "BLUE FEATHERS",
+      "RAVEN FEATHERS"
     ],
     "m_c": {
       "age": [
@@ -491,33 +492,49 @@
     ]
     
 },
-{
-  "event_id": "fst_misc_sleddingromanceapp",
-  "location": [
-    "forest:camp2"
-  ],
-  "season": [
-    "leaf-bare"
-  ],
-  "frequency": 2,
-  "event_text": "m_c is left flustered when r_c says {PRONOUN/m_c/subject} {VERB/m_c/are/is} as pretty as snowfall.",
-  "m_c": {
-      "age": [
-        "adolescent"
-      ]
-  },
-  "r_c": {
-      "age": [
-        "adolescent"
-      ]
+  {
+    "event_id": "fst_misc_sleddingromanceapp",
+    "location": [
+      "forest:camp2"
+    ],
+    "season": [
+      "leaf-bare"
+    ],
+    "frequency": 2,
+    "event_text": "m_c is left flustered when r_c says {PRONOUN/m_c/subject} {VERB/m_c/are/is} as pretty as snowfall.",
+    "m_c": {
+        "age": [
+          "adolescent"
+        ]
     },
-  "relationships": [
-      {
+    "r_c": {
+        "age": [
+          "adolescent"
+        ]
+      },
+    "relationships": [
+        {
+            "cats_from": [
+              "m_c"
+            ],
+            "cats_to": [
+              "r_c"
+            ],
+            "mutual": false,
+            "values": [
+              "romance"
+            ],
+            "amount": 10,
+            "log": {
+              "cats_from": "cat_from got flustered when cat_to said {PRONOUN/m_c/subject} {VERB/m_c/are/is} as pretty as snowfall."
+          }
+        },
+        {
           "cats_from": [
-            "m_c"
+            "r_c"
           ],
           "cats_to": [
-            "r_c"
+            "m_c"
           ],
           "mutual": false,
           "values": [
@@ -525,54 +542,54 @@
           ],
           "amount": 10,
           "log": {
-            "cats_from": "cat_from got flustered when cat_to said {PRONOUN/m_c/subject} {VERB/m_c/are/is} as pretty as snowfall."
+            "cats_from": "cat_from complimented cat_to on being pretty as snowfall."
         }
-      },
-      {
-        "cats_from": [
-          "r_c"
-        ],
-        "cats_to": [
-          "m_c"
-        ],
-        "mutual": false,
-        "values": [
-          "romance"
-        ],
-        "amount": 10,
-        "log": {
-          "cats_from": "cat_from complimented cat_to on being pretty as snowfall."
       }
-    }
-  ]
-},
-{
-  "event_id": "fst_misc_sleddingromancewarrior",
-  "location": [
-    "forest:camp2"
-  ],
-  "season": [
-    "leaf-bare"
-  ],
-  "frequency": 2,
-  "event_text": "m_c is left flustered when r_c says {PRONOUN/m_c/subject} {VERB/m_c/are/is} as pretty as snowfall.",
-  "m_c": {
-      "age": [
-        "young adult"
-      ]
+    ]
   },
-  "r_c": {
-      "age": [
-        "young adult"
-      ]
+  {
+    "event_id": "fst_misc_sleddingromancewarrior",
+    "location": [
+      "forest:camp2"
+    ],
+    "season": [
+      "leaf-bare"
+    ],
+    "frequency": 2,
+    "event_text": "m_c is left flustered when r_c says {PRONOUN/m_c/subject} {VERB/m_c/are/is} as pretty as snowfall.",
+    "m_c": {
+        "age": [
+          "young adult"
+        ]
     },
-  "relationships": [
-      {
+    "r_c": {
+        "age": [
+          "young adult"
+        ]
+      },
+    "relationships": [
+        {
+            "cats_from": [
+              "m_c"
+            ],
+            "cats_to": [
+              "r_c"
+            ],
+            "mutual": false,
+            "values": [
+              "romance"
+            ],
+            "amount": 10,
+            "log": {
+              "cats_from": "cat_from got flustered when cat_to said {PRONOUN/m_c/subject} {VERB/m_c/are/is} as pretty as snowfall."
+          }
+        },
+        {
           "cats_from": [
-            "m_c"
+            "r_c"
           ],
           "cats_to": [
-            "r_c"
+            "m_c"
           ],
           "mutual": false,
           "values": [
@@ -580,25 +597,122 @@
           ],
           "amount": 10,
           "log": {
-            "cats_from": "cat_from got flustered when cat_to said {PRONOUN/m_c/subject} {VERB/m_c/are/is} as pretty as snowfall."
+            "cats_from": "cat_from complimented cat_to on being pretty as snowfall."
         }
-      },
-      {
-        "cats_from": [
-          "r_c"
-        ],
-        "cats_to": [
-          "m_c"
-        ],
-        "mutual": false,
-        "values": [
-          "romance"
-        ],
-        "amount": 10,
-        "log": {
-          "cats_from": "cat_from complimented cat_to on being pretty as snowfall."
       }
-    }
-  ]
-}
+    ]
+  },
+  {
+        "event_id": "mod_fst_misc_any_ladybugs_accessory",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c seems to have found a pack of acc_singular collecting near a bush, and calls m_c over to see the acc_plural. Curiously enough. m_c has decided to keep one as a pet.",
+        "new_accessory": [
+            "RED LADYBUG", "ORANGE LADYBUG", "YELLOW LADYBUG"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_fst_misc_any_bee_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c tilts {PRONOUN/m_c/poss} head idly at a bee flying around {PRONOUN/m_c/poss} head. It doesn't seem to want to sting {PRONOUN/m_c/object}, so m_c assumes it wants to be {PRONOUN/m_c/poss} friend!.",
+        "new_accessory": [
+            "BEE"
+        ],
+        "m_c": {
+            "age": [
+                "any"
+            ],
+            "trait": [
+              "loving",
+              "compassionate",
+              "bold",
+              "adventurous",
+              "thoughtful"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_fst_misc_any_bee_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c wanders out on {PRONOUN/m_c/poss} own on a odd day, and comes back with a bee! m_c claims it's {PRONOUN/m_c/poss} new pet.",
+        "new_accessory": [
+            "BEE"
+        ],
+        "m_c": {
+            "age": [
+                "-kitten"
+            ]
+          }
+    },
+    {
+        "event_id": "mod_fst_misc_any_bee_accessory3",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c and m_c decide to go for a short walk together! r_c calls from behind m_c, and m_c has to leap out of the way of a buzzing bee! m_c shifts to swipe at it... but r_c remarks that it seems oddly friendly. m_c decides to take it home with {PRONOUN/m_c/object}.",
+        "new_accessory": [
+            "BEE"
+        ],
+        "m_c": {
+            "age": [
+                "-kitten"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "-kitten"
+            ]
+        }
+      }
 ]

@@ -2475,7 +2475,11 @@
             "BLUE FEATHERS",
             "JAY FEATHERS",
             "GULL FEATHERS",
-            "SPARROW FEATHERS"
+            "SPARROW FEATHERS",
+            "FEATHERS",
+            "DAISY CORSAGE",
+            "RAVEN FEATHERS",
+            "MARTIN FEATHERS"
         ],
         "m_c": {
             "age": [
@@ -2501,7 +2505,17 @@
         "event_text": "r_c found acc_plural while out on a walk and decided to give them to m_c.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -2557,7 +2571,18 @@
         "event_text": "m_c found acc_plural while out on a walk and decided to keep them.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -2584,7 +2609,18 @@
         "event_text": "m_c was given acc_plural as a congratulations. r_c watched from the side with a jealous glint in {PRONOUN/r_c/poss} eyes.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -2636,7 +2672,17 @@
         "event_text": "m_c received a present, acc_plural, from r_c and decided to keep it with {PRONOUN/m_c/object} on {PRONOUN/m_c/poss} pelt.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -2689,7 +2735,18 @@
         "event_text": "m_c decided to pick something to adorn {PRONOUN/m_c/poss} pelt as celebration.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -2716,7 +2773,18 @@
         "event_text": "r_c gave m_c something to adorn {PRONOUN/m_c/poss} pelt as congratulations.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -2778,7 +2846,30 @@
             "ORANGE POPPY",
             "WHITE POPPY",
             "CYAN POPPY",
-            "PINK POPPY"
+            "PINK POPPY",
+            "POPPY FLOWER",
+            "DAISY FLOWER",
+            "JUNIPER BERRY",
+            "BORAGE FLOWER",
+            "OAK LEAF",
+            "BEECH LEAF",
+            "LAUREL LEAVES",
+            "COLTSFOOT FLOWER",
+            "BINDWEED",
+            "TORMENTIL",
+            "BRIGHT EYE",
+            "LAVENDER WREATH",
+            "YARROW",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -3152,7 +3243,18 @@
         "event_text": "r_c found some acc_plural and gave m_c one to make up for a bad fight between them.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -3209,7 +3311,18 @@
         "event_text": "r_c found some acc_plural and gifted them to {PRONOUN/r_c/poss} beloved m_c to wear some in {PRONOUN/m_c/poss} pelt.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -3327,7 +3440,10 @@
         "frequency": 2,
         "event_text": "r_c gave m_c the prettiest fallen leaf {PRONOUN/r_c/subject} could find. m_c wears it with pride.",
         "new_accessory": [
-            "MAPLE LEAF"
+            "MAPLE LEAF",
+            "OAK LEAF",
+            "BEECH LEAF",
+            "LAUREL LEAVES"
         ],
         "m_c": {
             "age": [
@@ -3765,7 +3881,10 @@
             "BLUE FEATHERS",
             "JAY FEATHERS",
             "GULL FEATHERS",
-            "SPARROW FEATHERS"
+            "SPARROW FEATHERS",
+            "FEATHERS",
+            "RAVEN FEATHERS",
+            "MARTIN FEATHERS"
         ],
         "m_c": {
             "status": [
@@ -3789,7 +3908,8 @@
         "new_accessory": [
             "HOLLY",
             "JUNIPER",
-            "RASPBERRY"
+            "RASPBERRY",
+            "JUNIPER BERRY"
         ],
         "m_c": {
             "status": [
@@ -3882,7 +4002,10 @@
         "event_text": "As the wind blows fallen leaves around the camp, m_c picked a acc_singular to decorate {PRONOUN/m_c/poss} pelt.",
         "new_accessory": [
             "OAK LEAVES",
-            "MAPLE LEAF"
+            "MAPLE LEAF",
+            "OAK LEAF",
+            "BEECH LEAF",
+            "LAUREL LEAVES"
         ],
         "m_c": {
             "status": [
@@ -3905,7 +4028,18 @@
         "event_text": "m_c is just too cute. r_c gave {PRONOUN/m_c/object} a pretty acc_singular as a gift.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -3955,7 +4089,19 @@
         "event_text": "r_c gave m_c a pretty acc_singular {PRONOUN/r_c/subject} found while playing.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "PEBBLE",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -4003,7 +4149,20 @@
         "event_text": "m_c started bringing a pretty acc_singular everywhere {PRONOUN/m_c/subject} went, and r_c has been loudly complaining ever since that {PRONOUN/r_c/subject} {VERB/r_c/want/wants} one, too.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "PEBBLE",
+            "PEBBLE COLLECTION",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -4059,7 +4218,20 @@
             "DRY HERBS",
             "DRY CATMINT",
             "DRY NETTLES",
-            "DRY LAURELS"
+            "DRY LAURELS",
+            "STER_FLOWERS",
+            "PEBBLE",
+            "PEBBLE COLLECTION",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -4093,7 +4265,18 @@
         "event_text": "m_c found some acc_singular to wear in {PRONOUN/m_c/poss} fur to impress r_c!",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -4731,7 +4914,7 @@
         },
         "frequency": 4,
         "event_text": "m_c climbed up into POI to steal some feathers. {PRONOUN/m_c/subject/CAP} returned with a new pelt decoration and a few missing chunks of fur.",
-        "new_accessory": ["JAY FEATHERS", "BLUE FEATHERS"],
+        "new_accessory": ["JAY FEATHERS", "BLUE FEATHERS", "FEATHERS"],
         "m_c": {
             "status": ["-kitten"],
             "trait": [
@@ -4775,7 +4958,7 @@
         },
         "frequency": 4,
         "event_text": "r_c climbed up into POI to steal some feathers. {PRONOUN/r_c/subject/CAP} returned with a few missing chunks of fur and triumphantly presented a flustered m_c with {PRONOUN/r_c/poss} prize.",
-        "new_accessory": ["JAY FEATHERS", "BLUE FEATHERS"],
+        "new_accessory": ["JAY FEATHERS", "BLUE FEATHERS", "FEATHERS"],
         "m_c": {
             "relationship_status": ["fancies"]
         },
@@ -4915,7 +5098,7 @@
         },
         "frequency": 4,
         "event_text": "m_c went missing in POI for a few days and came back wearing a acc_singular.",
-        "new_accessory": ["COLLAR"],
+        "new_accessory": ["COLLAR", "DICE", "GOLDEN EARRINGS", "RACCOON LEAF", "WHITE RACCOON LEAF"],
         "m_c": {
             "status": ["-kitten"]
         },
@@ -4927,7 +5110,7 @@
                 "amount": -10,
                 "mutual": false,
                 "log": {
-                    "cats_from": "cat_from disapproved of cat_to wearing a collar."
+                    "cats_from": "cat_from disapproved of cat_to wearing a kittypet accessory."
                 }
             }
         ]
@@ -4959,7 +5142,7 @@
         },
         "frequency": 4,
         "event_text": "m_c was on a walk by POI when {PRONOUN/m_c/subject} found some lovely feathers. {PRONOUN/m_c/subject/CAP} decided to wear them.",
-        "new_accessory": ["BLUE FEATHERS", "RED FEATHERS", "JAY FEATHERS", "GULL FEATHERS", "SPARROW FEATHERS"],
+        "new_accessory": ["BLUE FEATHERS", "RED FEATHERS", "JAY FEATHERS", "GULL FEATHERS", "SPARROW FEATHERS", "FEATHERS", "MARTIN FEATHERS", "RAVEN FEATHERS"],
         "m_c": {
             "status": ["-kitten"]
         }
@@ -5012,7 +5195,17 @@
         "event_text": "m_c was dared to hunt outside in the snow alone and returned with acc_singular in {PRONOUN/m_c/poss} pelt.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -5038,7 +5231,10 @@
             "GULL FEATHERS",
             "SPARROW FEATHERS",
             "JAY FEATHERS",
-            "RED FEATHERS"
+            "RED FEATHERS",
+            "FEATHERS",
+            "RAVEN FEATHERS",
+            "MARTIN FEATHERS"
         ],
         "m_c": {
             "age": [
@@ -7457,7 +7653,18 @@
         "event_text": "r_c presented m_c with acc_plural as a congratulations.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -7641,7 +7848,18 @@
         "event_text": "r_c presented m_c with acc_plural as a congratulations.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -9467,7 +9685,18 @@
         "event_text": "r_c is so proud of how far {PRONOUN/r_c/poss} child has grown. With a look of pride, r_c presented m_c with acc_plural as a congratulations.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -9519,7 +9748,18 @@
         "event_text": "r_c is so proud of how far {PRONOUN/r_c/poss} kit has grown. With a look of pride, r_c presented m_c with acc_plural as a congratulations for becoming an apprentice.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -9571,7 +9811,18 @@
         "event_text": "r_c is so proud of how far {PRONOUN/r_c/poss} child has grown. With a look of pride, r_c presented m_c with acc_plural as a congratulations for becoming a warrior. r_c knew that m_c would do great things for c_n.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -9623,7 +9874,18 @@
         "event_text": "r_c is so proud of how far {PRONOUN/r_c/poss} child has grown. With a look of pride, r_c presented m_c with acc_plural as a congratulations. m_c took it, but as r_c turned away, a complicated expression crossed {PRONOUN/m_c/poss} face. Perhaps {PRONOUN/m_c/subject} has had the wrong idea about r_c.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -9777,7 +10039,18 @@
         "event_text": "m_c felt a bit overwhelmed now that {PRONOUN/m_c/subject} {VERB/m_c/are/is} an apprentice. Luckily, r_c was there with a gift of acc_plural and some comforting words to cheer m_c up.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -9836,7 +10109,16 @@
             "DRY HERBS",
             "DRY CATMINT",
             "DRY NETTLES",
-            "DRY LAURELS"
+            "DRY LAURELS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -9890,7 +10172,18 @@
         "frequency": 4,
         "event_text": "m_c felt hurt when {PRONOUN/m_c/poss} sibling wasn't there to congratulate {PRONOUN/m_c/object} for becoming a warrior. When {PRONOUN/m_c/subject} went to {PRONOUN/m_c/poss} new nest, {PRONOUN/m_c/subject} found r_c waiting for {PRONOUN/m_c/object} with a gift of acc_plural. Together, the siblings worked on making m_c's new nest feel more comfortable.",
         "new_accessory": [
-            "WILD"
+            "WILD",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -9946,7 +10239,20 @@
         "event_text": "m_c has been so excited for {PRONOUN/m_c/poss} first lesson with r_c. However, instead of something like hunting or moss gathering, r_c took {PRONOUN/m_c/object} on a tour of the territory. At the end of the lesson, r_c gave m_c acc_plural, saying {PRONOUN/r_c/subject} {VERB/r_c/are/is} glad to be m_c's mentor.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "RACCOON LEAF",
+            "WHITE RACCOON LEAF",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -10007,7 +10313,20 @@
         "event_text": "As a new mentor, r_c wanted to make a good initial impression on {PRONOUN/r_c/poss} apprentice and after some careful consideration {PRONOUN/r_c/subject} decided the best way is a gift. r_c took m_c aside and gave {PRONOUN/m_c/object} acc_plural, telling {PRONOUN/m_c/object} with a soft voice that if m_c has any sort of issue then {PRONOUN/m_c/subject} can come to {PRONOUN/r_c/object} for help.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "RACCOON LEAF",
+            "WHITE RACCOON LEAF",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -10064,7 +10383,20 @@
         "event_text": "r_c pounced on m_c, startling {PRONOUN/m_c/object}. r_c didn't notice m_c's discomfort as {PRONOUN/r_c/subject} excitedly pointed out the acc_plural that now adorns m_c's pelt.",
         "new_accessory": [
             "WILD",
-            "PLANT"
+            "PLANT",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "RACCOON LEAF",
+            "WHITE RACCOON LEAF",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "status": [
@@ -10160,7 +10492,30 @@
             "GORSE",
             "LILY OF THE VALLEY",
             "BLUEBELLS",
-            "FORGET ME NOTS"
+            "FORGET ME NOTS",
+            "POPPY FLOWER",
+            "DAISY FLOWER",
+            "JUNIPER BERRY",
+            "BORAGE FLOWER",
+            "OAK LEAF",
+            "BEECH LEAF",
+            "LAUREL LEAVES",
+            "COLTSFOOT FLOWER",
+            "BINDWEED",
+            "TORMENTIL",
+            "BRIGHT EYE",
+            "LAVENDER WREATH",
+            "YARROW",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "m_c": {
             "age": [
@@ -11359,7 +11714,18 @@
             ]
         },
         "new_accessory": [
-            "WILD"
+            "WILD",
+            "STER_FLOWERS",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
         ],
         "other_clan": {
             "changed": 2
@@ -17444,7 +17810,10 @@
             "BLUE FEATHERS",
             "JAY FEATHERS",
             "GULL FEATHERS",
-            "SPARROW FEATHERS"
+            "SPARROW FEATHERS",
+            "FEATHERS",
+            "RAVEN FEATHERS",
+            "MARTIN FEATHERS"
         ],
         "m_c": {
             "status": ["apprentice"]
@@ -17461,7 +17830,7 @@
             "name": ["terrain_rookery"]
         },
         "event_text": "m_c returned from a hunt at POI, adorned with some feathers from {PRONOUN/m_c/poss} catch.",
-        "new_accessory": ["BLUE FEATHERS", "JAY FEATHERS"],
+        "new_accessory": ["BLUE FEATHERS", "JAY FEATHERS", "FEATHERS"],
         "m_c": {
             "status": ["-kitten", "-elder"]
         }
@@ -17477,7 +17846,7 @@
             "name": ["terrain_rookery"]
         },
         "event_text": "r_c returned from a hunt at POI and gifted some beautiful feathers from {PRONOUN/r_c/poss} catch to m_c.",
-        "new_accessory": ["BLUE FEATHERS", "JAY FEATHERS"],
+        "new_accessory": ["BLUE FEATHERS", "JAY FEATHERS", "FEATHERS"],
         "m_c": {
             "age": ["any"],
             "dies": false
@@ -17576,7 +17945,15 @@
         "tags": [],
         "frequency": 2,
         "event_text": "m_c took a moment to pick a specific bird from the fresh-kill pile and was later seen wearing its feathers.",
-        "new_accessory": ["BLUE FEATHERS", "SPARROW FEATHERS", "JAY FEATHERS", "RED FEATHERS"],
+        "new_accessory": [
+            "BLUE FEATHERS",
+            "SPARROW FEATHERS",
+            "JAY FEATHERS",
+            "RED FEATHERS",
+            "FEATHERS",
+            "RAVEN FEATHERS",
+            "MARTIN FEATHERS"
+        ],
         "m_c": {
             "age": ["any"],
             "dies": false
@@ -18613,5 +18990,1207 @@
             "BLUEBELLS",
             "LAVENDER"
        ]
+    },
+    {
+        "event_id": "mod_snails_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c and m_c go on a walk together! After a while, m_c and r_c run into a cute, slowly moving snail! m_c decides to keep it as a pet, and r_c cooes at the little thing as m_c carries it home.",
+        "new_accessory": [
+            "BROWN SNAIL", "RED SNAIL", "BLUE SNAIL"
+        ],
+        "m_c": {
+            "age": [
+                "-kitten"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "-kitten"
+            ]
+        }
+      },
+      {
+        "event_id": "mod_snails_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c comes into camp with a happy glint in {PRONOUN/m_c/poss} eye, happily sharing how m_c managed to keep a snail as {PRONOUN/m_c/poss} pet.",
+        "new_accessory": [
+            "BROWN SNAIL", "RED SNAIL", "BLUE SNAIL"
+        ],
+        "m_c": {
+            "age": [
+                "-kitten"
+            ]
+        }
+      },
+    {
+        "event_id": "mod_snails_accessory3",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c and m_c go on a walk together! After a while, m_c and r_c run into a cute, slowly moving snail! m_c decides to keep it as a pet, and r_c cooes at the little thing as m_c carries it home.",
+        "new_accessory": [
+            "BROWN SNAIL", "RED SNAIL", "BLUE SNAIL"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+  {
+        "event_id": "mod_snails_accessory4",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c comes into camp with a happy glint in {PRONOUN/m_c/poss} eye, happily sharing how m_c managed to keep a snail as {PRONOUN/m_c/poss} pet.",
+        "new_accessory": [
+            "BROWN SNAIL", "RED SNAIL", "BLUE SNAIL"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+        {
+        "event_id": "mod_worm_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c finds a worm in camp on a rainy day! m_c decides to keep it.",
+        "new_accessory": [
+            "WORM"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+      {
+        "event_id": "mod_worm_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c comes into camp with a happy glint in {PRONOUN/m_c/poss} eye, and a dangling worm in their jaws...!?",
+        "new_accessory": [
+            "WORM"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+        {
+        "event_id": "mod_worm_accessory3",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c and m_c go on a walk together! After a while, m_c and r_c run into a light pink, squirmy little worm! m_c decides to keep it as a pet, and r_c cooes at the little thing as m_c carries it home.",
+        "new_accessory": [
+            "WORM"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "trait": [
+              "strange"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+        {
+        "event_id": "mod_worm_accessory4",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c watches with exhausted eyes as m_c violently digs a hole off to the side of c_n camp, flinging dirt everywhere. m_c approaches less than a minute later, covered in dirt and with a long worm in their jaws. Mumbled, m_c asks if {PRONOUN/m_c/subject} can keep {PRONOUN/m_c/poss} new friend. Exasperated, r_c tells {PRONOUN/m_c/object} yes and to <i>not</i> dig holes in camp, and then tiredly walks over to clean up m_c's mess.",
+        "new_accessory": [
+            "WORM"
+        ],
+        "m_c": {
+            "age": [
+                "any"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "any"
+            ]
+        }
+      },
+        {
+        "event_id": "mod_worm_accessory5",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "-leaf-bare"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c finds a worm in camp on a rainy day! m_c decides to keep it.",
+        "new_accessory": [
+            "WORM"
+        ],
+        "m_c": {
+            "age": [
+                "any"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_redsnail_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c and m_c find a cute snail with a red, pointy shell while hanging out in camp together! m_c decides to keep it with {PRONOUN/m_c/object}.",
+        "new_accessory": [
+            "RED SNAIL"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_isopods_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c seems to have found a strange bug, and has decided to keep it as a pet.",
+        "new_accessory": [
+            "ZEBRA ISOPOD",
+            "DUCKY ISOPOD",
+            "DAIRY COW ISOPOD",
+            "BEETLEJUICE ISOPOD"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_isopods_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c seems to have found a strange bug, and calls m_c over to see it. Curiously enough. m_c has decided to keep it as a pet.",
+        "new_accessory": [
+            "ZEBRA ISOPOD",
+            "DUCKY ISOPOD",
+            "DAIRY COW ISOPOD",
+            "BEETLEJUICE ISOPOD"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_ladybugs_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c seems to have spotted acc_plural, and has decided to snag one up as a pet.",
+        "new_accessory": [
+            "RED LADYBUG",
+            "ORANGE LADYBUG",
+            "YELLOW LADYBUG"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_ladybugs_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c seems to have found a pack of acc_singular collecting near a bush, and calls m_c over to see the acc_plural. Curiously enough. m_c has decided to keep one as a pet.",
+        "new_accessory": [
+            "RED LADYBUG",
+            "ORANGE LADYBUG",
+            "YELLOW LADYBUG"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_snake_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c skips back into camp with a pep in {PRONOUN/m_c/poss} step... and with a new noodly, harmless friend!",
+        "new_accessory": [
+            "GRASS SNAKE",
+            "BLUE RACER",
+            "WESTERN COACHWHIP",
+            "KINGSNAKE"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_snake_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c chirps softly at m_c as {PRONOUN/r_c/subject} {VERB/r_c/walk/walks} over, and offers to show {PRONOUN/m_c/object} a cool, silly little snake {PRONOUN/r_c/subject} found! m_c takes {PRONOUN/r_c/poss} invitation. After seeing the weird, harmless thing, m_c decides to take it home with {PRONOUN/m_c/object}.",
+        "new_accessory": [
+            "GRASS SNAKE",
+            "BLUE RACER",
+            "WESTERN COACHWHIP",
+            "KINGSNAKE"
+        ],
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_grasssnake_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c waltzes back into camp... with a grass snake!? m_c promises that the snake is safe to be around, and that {PRONOUN/m_c/subject} will be the one to take care of it's needs.",
+        "new_accessory": [
+            "GRASS SNAKE"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "trait": [
+                "bold",
+                "adventurous",
+                "careful",
+                "confident",
+                "daring",
+                "ambitious",
+                "strange",
+                "charismatic"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_plant_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "-leaf-bare"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c skips back into camp with a pep in {PRONOUN/m_c/poss} step and a new acc_singular accessory!",
+        "new_accessory": [
+            "POPPY",
+            "ORANGE POPPY",
+            "CYAN POPPY",
+            "WHITE POPPY",
+            "PINK POPPY",
+            "BULB WHITE",
+            "BULB YELLOW",
+            "BULB ORANGE",
+            "BULB PINK",
+            "BULB BLUE",
+            "LAVENDER",
+            "HEATHER",
+            "GORSE",
+            "LILY OF THE VALLEY",
+            "BLUEBELLS",
+            "FORGET ME NOTS",
+            "POPPY FLOWER",
+            "DAISY FLOWER",
+            "JUNIPER BERRY",
+            "BORAGE FLOWER",
+            "OAK LEAF",
+            "BEECH LEAF",
+            "LAUREL LEAVES",
+            "COLTSFOOT FLOWER",
+            "BINDWEED",
+            "TORMENTIL",
+            "BRIGHT EYE",
+            "LAVENDER WREATH",
+            "YARROW",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
+        ],
+        "m_c": {
+            "age": [
+                "any"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_plant_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c chirps softly at m_c as {PRONOUN/r_c/subject} {VERB/r_c/walk/walks} over, and offers {PRONOUN/m_c/object} a pretty acc_singular! m_c takes it and decorates {PRONOUN/m_c/self} with it, purring out a thank you.",
+        "new_accessory": [
+            "POPPY",
+            "ORANGE POPPY",
+            "CYAN POPPY",
+            "WHITE POPPY",
+            "PINK POPPY",
+            "BULB WHITE",
+            "BULB YELLOW",
+            "BULB ORANGE",
+            "BULB PINK",
+            "BULB BLUE",
+            "LAVENDER",
+            "HEATHER",
+            "GORSE",
+            "LILY OF THE VALLEY",
+            "BLUEBELLS",
+            "FORGET ME NOTS",
+            "POPPY FLOWER",
+            "DAISY FLOWER",
+            "JUNIPER BERRY",
+            "BORAGE FLOWER",
+            "OAK LEAF",
+            "BEECH LEAF",
+            "LAUREL LEAVES",
+            "COLTSFOOT FLOWER",
+            "BINDWEED",
+            "TORMENTIL",
+            "BRIGHT EYE",
+            "LAVENDER WREATH",
+            "YARROW",
+            "DOGWOOD",
+            "TREESTAR",
+            "CHERRY BLOSSOM",
+            "DAISY BLOOM",
+            "RED ROSE",
+            "WHITE ROSE",
+            "GOLDEN FLOWER",
+            "DANDELIONS",
+            "DANDELION PUFFS",
+            "DAISY CORSAGE"
+        ],
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_squirrel_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c waltzes onto camp with a squirrel following suit! {PRONOUN/m_c/subject/CAP} {VERB/m_c/growl/growls} at any cat who attempts to snap at the poor thing, and m_c proudly states that it's {PRONOUN/m_c/poss} new pet.",
+        "new_accessory": [
+            "GRAY SQUIRREL",
+            "RED SQUIRREL",
+            "INDIAN GIANT SQUIRREL"
+        ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "trait": [
+                "bold",
+                "adventurous",
+                "careful",
+                "confident",
+                "daring",
+                "ambitious",
+                "strange",
+                "charismatic"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_rabbit_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c gently guides a rabbit into camp. Seems like m_c has found a new friend?",
+        "new_accessory": [
+            "BLACK RABBIT",
+            "WHITE RABBIT",
+            "BROWN RABBIT",
+            "FAWN RABBIT",
+            "BROWN-AND-WHITE RABBIT",
+            "FAWN-AND-WHITE RABBIT",
+            "BLACK VITILIGO RABBIT",
+            "BROWN VITILIGO RABBIT",
+            "FAWN VITILIGO RABBIT",
+            "TAN RABBIT",
+            "TAN-AND-WHITE RABBIT",
+            "TAN VITILIGO RABBIT",
+            "GRAY RABBIT",
+            "GRAY-AND-WHITE RABBIT",
+            "GRAY VITILIGO RABBIT"
+            ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_rabbit_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c spots acc_singular near camp. Before r_c can rip {PRONOUN/r_c/poss} way through camp and to the acc_singular, m_c stops {PRONOUN/r_c/object} and tells {PRONOUN/r_c/object} that {PRONOUN/m_c/subject} {VERB/m_c/want/wants} it as a pet. r_c opens {PRONOUN/r_c/poss} mouth to <i>hiss</i> at m_c, but the kit bounds over to the acc_singular. Guess it's too late to catch it...",
+        "new_accessory": [
+            "BLACK RABBIT",
+            "WHITE RABBIT",
+            "BROWN RABBIT",
+            "FAWN RABBIT",
+            "BROWN-AND-WHITE RABBIT",
+            "FAWN-AND-WHITE RABBIT",
+            "BLACK VITILIGO RABBIT",
+            "BROWN VITILIGO RABBIT",
+            "FAWN VITILIGO RABBIT",
+            "TAN RABBIT",
+            "TAN-AND-WHITE RABBIT",
+            "TAN VITILIGO RABBIT",
+            "GRAY RABBIT",
+            "GRAY-AND-WHITE RABBIT",
+            "GRAY VITILIGO RABBIT"
+            ],
+        "m_c": {
+            "age": [
+                "kitten"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_rabbit_accessory3",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c's eyes dilate as {PRONOUN/m_c/subject} {VERB/m_c/focus/focuses} on a rabbit near the dirt-place. m_c has been taught all {PRONOUN/m_c/poss} life that hunting was the only thing that a warrior did near rabbits... but this one was so <i>cute</i>. m_c wanders towards it, and quickly befriends it!",
+        "new_accessory": [
+            "BLACK RABBIT",
+            "WHITE RABBIT",
+            "BROWN RABBIT",
+            "FAWN RABBIT",
+            "BROWN-AND-WHITE RABBIT",
+            "FAWN-AND-WHITE RABBIT",
+            "BLACK VITILIGO RABBIT",
+            "BROWN VITILIGO RABBIT",
+            "FAWN VITILIGO RABBIT",
+            "TAN RABBIT",
+            "TAN-AND-WHITE RABBIT",
+            "TAN VITILIGO RABBIT",
+            "GRAY RABBIT",
+            "GRAY-AND-WHITE RABBIT",
+            "GRAY VITILIGO RABBIT"
+            ],
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_bird_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c and r_c sneak out of camp to go bird watching. Seems like one of the birds decided to stick around m_c after they attempt to leave!",
+        "new_accessory": [
+            "BLACKBIRD",
+            "ROBIN",
+            "JAY",
+            "THRUSH",
+            "CARDINAL",
+            "CUBAN TROGAN",
+            "MAGPIE"
+            ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_bird_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c sneaks out of camp to go bird watching. Seems like one of the birds decided to stick around m_c after they attempt to leave!",
+        "new_accessory": [
+            "BLACKBIRD",
+            "ROBIN",
+            "JAY",
+            "THRUSH",
+            "CARDINAL",
+            "CUBAN TROGAN",
+            "MAGPIE"
+            ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_mouse_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c grins toothily at a acc_singular that wandered into camp! Instead of diving toward it like anyone would expect a cat to do, m_c decides to befriend it with seeds and nuts.",
+        "new_accessory": [
+            "RAT",
+            "WHITE MOUSE",
+            "GRAY MOUSE",
+            "BLACK MOUSE",
+            "BROWN MOUSE"
+            ],
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_mouse_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "r_c's eyes dilate as {PRONOUN/r_c/subject} {VERB/r_c/hunch/hunches} down to watch acc_singular nibble at a fat seed! m_c stops r_c before {PRONOUN/r_c/subject} {VERB/r_c/pounce/pounces}, and manages to... befriend the acc_singular! r_c rolls {PRONOUN/r_c/poss} eyes, grumbling about wasted food.",
+        "new_accessory": [
+            "RAT",
+            "WHITE MOUSE",
+            "GRAY MOUSE",
+            "BLACK MOUSE",
+            "BROWN MOUSE"
+            ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_rat_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c eyes a pink-nosed rat that wandered into camp. Before r_c can even think about stopping {PRONOUN/m_c/object}, m_c befriends the weird little thing with a few leftover acorns.",
+        "new_accessory": [
+            "RAT"
+            ],
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_daisycorsage_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c received a present, gently weaved acc_plural, from r_c and decided to keep it with {PRONOUN/m_c/object} on {PRONOUN/m_c/poss} pelt.",
+        "new_accessory": [
+            "DAISY CORSAGE"
+            ],
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_daisycorsage_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "Over the past few days, m_c has been adamant on being near a nearby daisy patch. On an early morning, m_c reveals that {PRONOUN/m_c/subject} {VERB/m_c/have/has} been braiding a daisy corsage for {PRONOUN/m_c/poss} tail! m_c flaunts {PRONOUN/m_c/poss} work proudly.",
+        "new_accessory": [
+            "DAISY CORSAGE"
+            ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_daisycorsage_accessory3",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c, inbetween playfighting with r_c, collects scraps of daisies that sometimes get stuck in r_c's pelt. After quite a while, m_c {VERB/m_c/crafts/craft} a daisy corsage for {PRONOUN/m_c/poss} tail!",
+        "new_accessory": [
+            "DAISY CORSAGE"
+            ],
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "kitten",
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_muddypaws_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c comes back from patrol, paws all muddied. Despite being told to not track mud throughout the camp, m_c assures r_c it'll be fine. It's a new fashion statement, overall!",
+        "new_accessory": [
+            "MUDDY PAWS"
+            ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        },
+        "r_c": {
+            "age": [
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_muddypaws_accessory2",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c returns back to camp, paws muddied. It's a new fashion statement- or so {PRONOUN/m_c/subject} {VERB/m_c/say/says}.",
+        "new_accessory": [
+            "MUDDY PAWS"
+            ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ]
+        }
+    },
+    {
+        "event_id": "mod_bloodypaws_accessory1",
+        "location": [
+            "any"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "accessory"
+        ],
+        "frequency": 1,
+        "event_text": "m_c doesn't seem to mind the stares when {PRONOUN/m_c/subject} {VERB/m_c/walk/walks} into camp, sporting red-stained paws. What's the issue? It's just some leftover prey blood, or so m_c claims.",
+        "new_accessory": [
+            "BLOODY PAWS"
+            ],
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "trait": [
+                "arrogant",
+                "ambitious",
+                "bloodthirsty",
+                "bold",
+                "childish",
+                "confident",
+                "cunning",
+                "daring",
+                "fierce",
+                "flamboyant",
+                "oblivious",
+                "rebellious",
+                "shameless",
+                "strange",
+                "troublesome",
+                "vengeful"
+            ]
+        }
     }
 ]

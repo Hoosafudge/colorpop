@@ -105,6 +105,10 @@ class LoadCatFactory(BaseCatFactory):
             "ID": cls.cat_id,
             "gender_dict": gender,
             "pelt": pelt,
+            "body": str,
+            "texture": str,
+            "scent": str,
+            "fav_food": str,
             "moons": kwargs["moons"],
             "status": status,
             "backstory": backstory,
@@ -271,6 +275,9 @@ class LoadCatFactory(BaseCatFactory):
                 "scars": kwargs["scars"],
                 "accessory": kwargs.get("accessory", []),
                 "opacity": kwargs.get("opacity", 100),
+                "body": kwargs.get("pelt_body"),
+                "texture": kwargs.get("pelt_texture"),
+                "fav_food": kwargs.get("pelt_fav_food"),
             }
         )
         pelt.check_and_convert(convert_dict=cls.CONVERT)

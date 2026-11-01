@@ -351,6 +351,7 @@ def _draw_sprite(
                             ),
                             (0, 0),
                         )
+                        
                     elif accessory in cat.pelt.wild_accessories:
                         sprite_name = f"{sprites.WILD_DATA['spritesheet']}{accessory}_{cat_sprite}"
                         new_sprite.blit(
@@ -361,6 +362,84 @@ def _draw_sprite(
                             ),
                             (0, 0),
                         )
+
+                    elif accessory in cat.pelt.living_insects_accessories:
+                        sprite_name = f"{sprites.LIVING_INSECTS_DATA['spritesheet']}{accessory}_{cat_sprite}"
+                        new_sprite.blit(
+                                _recolor_lineart(
+                                    sprites.sprites[sprite_name],
+                                    lineart_color,
+                                    gradient_surface,
+                            ),
+                            (0, 0),
+                        )             
+
+                    elif accessory in cat.pelt.snakes_accessories:
+                        sprite_name = f"{sprites.SNAKES_DATA['spritesheet']}{accessory}_{cat_sprite}"
+                        new_sprite.blit(
+                                _recolor_lineart(
+                                    sprites.sprites[sprite_name],
+                                    lineart_color,
+                                    gradient_surface,
+                            ),
+                            (0, 0),
+                        )
+
+                    elif accessory in cat.pelt.ster_flowers_accessories:
+                        sprite_name = f"{sprites.STER_FLOWERS_DATA['spritesheet']}{accessory}_{cat_sprite}"
+                        new_sprite.blit(
+                                _recolor_lineart(
+                                    sprites.sprites[sprite_name],
+                                    lineart_color,
+                                    gradient_surface,
+                            ),
+                            (0, 0),
+                        )
+                    
+                    elif accessory in cat.pelt.companions_accessories:
+                        sprite_name = f"{sprites.COMPANIONS_DATA['spritesheet']}{accessory}_{cat_sprite}"
+                        new_sprite.blit(
+                            _recolor_lineart(
+                                sprites.sprites[sprite_name],
+                                lineart_color,
+                                gradient_surface,
+                            ),
+                            (0, 0),
+                        )
+                    
+                    elif accessory in cat.pelt.random_accessories:
+                        sprite_name = f"{sprites.RANDOM_DATA['spritesheet']}{accessory}_{cat_sprite}"
+                        new_sprite.blit(
+                            _recolor_lineart(
+                                sprites.sprites[sprite_name],
+                                lineart_color,
+                                gradient_surface,
+                            ),
+                            (0, 0),
+                        )
+                    
+                    elif accessory in cat.pelt.tail2_accessories:
+                        sprite_name = f"{sprites.TAIL2_DATA['spritesheet']}{accessory}_{cat_sprite}"
+                        new_sprite.blit(
+                            _recolor_lineart(
+                                sprites.sprites[sprite_name],
+                                lineart_color,
+                                gradient_surface,
+                            ),
+                            (0, 0),
+                        )
+                    
+                    elif accessory in cat.pelt.bellamy_accessories:
+                        sprite_name = f"{sprites.BELLAMY_DATA['spritesheet']}{accessory}_{cat_sprite}"
+                        new_sprite.blit(
+                            _recolor_lineart(
+                                sprites.sprites[sprite_name],
+                                lineart_color,
+                                gradient_surface,
+                            ),
+                            (0, 0),
+                        )
+                        
                     elif accessory in cat.pelt.collar_accessories:
                         sprite_name = f"{sprites.COLLAR_DATA['spritesheet']}{accessory}_{cat_sprite}"
                         new_sprite.blit(

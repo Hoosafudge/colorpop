@@ -577,6 +577,78 @@
             "one": "light blue",
             "many": "light blue"
         },
+        "WHWOOL": {
+            "one": "white wool",
+            "many": "white wool"
+        },
+        "LGWOOL": {
+            "one": "light gray wool",
+            "many": "light gray wool"
+        },
+        "GRWOOL": {
+            "one": "gray wool",
+            "many": "gray wool"
+        },
+        "BLWOOL": {
+            "one": "black wool",
+            "many": "black wool"
+        },
+        "BRWOOL": {
+            "one": "brown wool",
+            "many": "brown wool"
+        },
+        "REDWOOL": {
+            "one": "red wool",
+            "many": "red wool"
+        },
+        "ORWOOL": {
+            "one": "orange wool",
+            "many": "orange wool"
+        },
+        "YELWOOL": {
+            "one": "yellow wool",
+            "many": "yellow wool"
+        },
+        "LIWOOL": {
+            "one": "lime wool",
+            "many": "lime wool"
+        },
+        "GREWOOL": {
+            "one": "green wool",
+            "many": "green wool"
+        },
+        "LBWOOL": {
+            "one": "light blue wool",
+            "many": "light blue wool"
+        },
+        "COPPER": {
+            "one": "copper",
+            "many": "copper"
+        },
+        "BIRCH": {
+            "one": "birch",
+            "many": "birch"
+        },
+        "MANGROVE": {
+            "one": "mangrove",
+            "many": "mangrove"
+        },
+        "POPLAR": {
+            "one": "poplar",
+            "many": "poplar"
+        },
+        "EMERALD": {
+            "one": "emerald",
+            "many": "emerald"
+        },
+        "DIAMOND": {
+            "one": "diamond",
+            "many": "diamond"
+        },
+        "AMETHYST": {
+            "one": "amethyst",
+            "many": "amethyst"
+        },
         "WHITETIGER": {
             "one": "white",
             "many": "two toned"

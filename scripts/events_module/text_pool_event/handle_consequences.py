@@ -185,9 +185,24 @@ def _handle_accessories(
             acc_list.extend(Pelt.plant_accessories)
         if "COLLAR" in possible_accs:
             acc_list.extend(Pelt.collar_accessories)
-
+        if "LIVING_INSECTS" in possible_accs:
+            acc_list.extend(Pelt.living_insects_accessories)
+        if "SNAKES" in possible_accs:
+            acc_list.extend(Pelt.snakes_accessories)
+        if "STER_FLOWERS" in possible_accs:
+            acc_list.extend(Pelt.ster_flowers_accessories)
+        if "COMPANIONS" in possible_accs:
+            acc_list.extend(Pelt.companions_accessories)
+        if "RANDOM" in possible_accs:
+            acc_list.extend(Pelt.random_accessories)
+        if "TAIL2" in possible_accs:
+            acc_list.extend(Pelt.tail2_accessories)
+        if "BELLAMY" in possible_accs:
+            acc_list.extend(Pelt.bellamy_accessories)
+        
         for acc in possible_accs:
-            if acc not in ("WILD", "PLANT", "COLLAR"):
+            if acc not in ("WILD", "PLANT", "COLLAR", "LIVING_INSECTS", "SNAKES",
+                            "STER_FLOWERS", "COMPANIONS", "RANDOM", "TAIL2", "BELLAMY"):
                 acc_list.append(acc)
 
         new_acc = choice(acc_list)

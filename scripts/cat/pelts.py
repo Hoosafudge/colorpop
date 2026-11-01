@@ -40,6 +40,42 @@ class Pelt:
     # PELT LENGTH
     pelt_length = ["short", "medium", "long"]
 
+    # BODY TYPES
+    body_types: list = ["tall", "towering", "muscular", "burly", "stocky", "petite", "small", "lithe", "slender", "skinny", "thin", "scrawny", "lanky", "wiry", "plump", "stout", "fat", "round", "compact", "robust", "gangly", "long-limbed", "cobby", "semi-cobby", "average", "toned", "brawny", "broad-shouldered", "chiseled", "barrel-chested", "heavy", "athletic", "portly", "heavyset", "soft-framed", "full-figured", "ample", "frail", "delicate", "hunched", "dainty", "lumbering", "streamlined", "massive", "tiny", "runty", "puny", "defined", "gigantic", "bony", "dwarfish"]
+        
+    # TEXTURE
+    texture: list = ["coarse", "downy", "wispy", "dense", "soft", "rough", "silky", "velvety", "feathery", "glossy", "lustrous", "fleecy", "plush", "wiry", "bristly", "shaggy", "bushy", "dense", "thick", "grizzled", "matted", "tangled", "ruffled", "stands on end", "wild", "sleek", "patchy", "molting", "brittle", "crinky", "wavy", "dull", "fine", "flat", "fluffy", "frizzy", "fuzzy", "greasy", "knotted", "lush", "oily", "puffy", "scraggly", "shaggy", "slick", "stiff", "tousled", "unkempt", "voluminous", "windy blown", "windswept", "well-groomed", "tidy", "pristine"]
+    
+    # SCENT
+    scent: list = [ "mint", "musk", "earth", "rain", "honey", "garlic", "sage", "heather", "pine", "olive", "blackberry", "smoke", "ash", "nutmeg", "blood", "mildew", "apricot", "lavender", "sunflower", "powder", "dust", "peach", "cedar", "mulberry", "birch", "oak", "elderberry", "peony", "onion", "sandalwood", "cherry blossom", "bay leaves", "vanilla", "orchid", "sea salt", "ocean", "chamomile", "pepper", "amaranth", "pumpkin", "walnut", "cress", "anise", "hay", "grapes", "lillies", "lotus flowers", "bluebell", "almond", "sulfur", "pecan", "violet", "lemon", "petunia", "cumin", "cilantro", "resin", "sap", "maple", "tansy", "coconut", "saffron", "celery seed", "clover", "holly", "tobacco", "palo santo", "incense", "zinnia", "hibiscus", "aloe", "iron", "tangerine", "rosemary", "rue", "skunk", "mouse bile", "mold", "dill", "chestnut", "tar", "thunderpath", "wintergreen", "plum", "sweet pea", "burnt wood", "fire", "tulip", "rose", "strawberry", "sorrel", "orange blossom", "ginger", "milk", "snow", "dahlia", "lime", "lemongrass", "bamboo", "moss", "damp moss", "metal", "amber", "algae", "apples", "basil", "cardamoms", "citronella", "clay", "cloves", "coffee", "cucumbers", "curry", "dirt", "eucalyptus", "dirt place", "figs", "frankincense", "grass", "honeysuckle", "mothballs", "must", "ozone", "patchouli", "pears", "peanut butter", "peonies", "petrichor", "pine", "pineapple", "allspice", "rose", "sage", "old leather", "sawdust", "lumber", "tea tree", "tomato", "tuna", "vinegar", "watermelon", "whiskey", "wine", "wool"]
+    
+    # FAVORITE PREY
+    fav_food: list = [ "fiddler crab", "hermit crab", "beach vole", "fog shrew", "beach mouse",
+    "yellow-cheeked chipmunk", "ornate shrew", "pocket mouse", "marsh shrew", "crab", "non-toxic jellyfish",
+    "clam cluster", "sandpiper", "crawdad", "jackdaw", "cockle shell", "plover", "finch", "thrush", "shad", "anchovy", "sardine", "smelt", "pink shrimp", "white shrimp", "tropical fish", "sand fish", 
+    "flat head fish", "small brine fish", "prawn", "little seahorse", "seahorse", "cherubfish", "fairy basslet", 
+    "sailfin blenny", "yellowhead jawfish", "pinkeye goby", "tetra", "dusky-footed woodrat", "auklet", "gannet", "skua", "loon", "herring gull", "ring-billed gull", "common tern",
+    "squirrel", "eel", "needlenose", "seagull", "blowfish", "sea bass", "young squid", "lionfish", "lobster", "sea snake",
+    "clown triggerfish", "angel fish", "powder blue tang", "yellow tang", "powder brown tang", "butterfly fish", "shrew", "robin", "vole", "dormouse", "blackbird", "wood mouse", "lizard", "tiny grass snake", "finch", "sparrow",
+    "small bird", "young rat", "young hedgehog", "big beetle", "woodrat", "white-footed mouse", "golden mouse",
+    "young squirrel", "chipmunk", "white-footed vole", "jumping mouse", "red tree vole", "gray-tailed vole",
+    "gray-footed chipmunk", "red-tailed chipmunk", "red-backed vole", "creeping vole", "woodland vole", "brush mouse",
+    "cotton mouse", "white-ankled mouse", "smoky shrew", "hairy-tailed mole", "mole", "broad-footed mole",
+    "shrew mole", "weasel", "deer mouse", "gnat catcher", "yellow rumped warbler", "rock dove", "stock dove",
+    "bank vole", "green anole", "towhee", "finch", "fantail", "bobwhite quail", "dark-eyed junco", "yellow-eyed junco",
+    "blue-bellies", "gray catbird", "plump shrew", "woodpecker", "mole", "fat dormouse", "blackbird", "field vole", "big lizard", "grass snake",
+    "half-grown rabbit", "hedgehog", "red squirrel", "grey squirrel", "rat", "flying squirrel", "kingfisher", "packrat",
+    "dusky-footed woodrat", "big-eared woodrat", "stoat", "ermine", "ruffed grouse", "cardinal", "ptarmigan",
+    "chukar", "quail", "pheasant", "starling", "blue jay", "stellar jay", "meadow mouse", "pocket mouse", "white-eared pocket mouse", "spiny pocket mouse", "chipmunk", 
+    "yellow-pine chipmunk", "gray-collared chipmunk", "pocket gopher", "rock vole", "water vole", 
+    "black-eared mouse", "long-tailed shrew", "dwarf shrew", "water shrew", "plump shrew", "woodpecker", "blackbird", "golden-mantled ground squirrel", "half-grown rabbit", "fox squirrel", 
+    "yellow-nosed rat", "red squirrel", "grey squirrel", "rat", "flying squirrel", "pika", "collared pika", "pygmy rabbit", "pocket gopher", "yellow-faced pocket gopher", "meadow mouse", "dark kangaroo mouse", "pocket mouse",
+    "pale kangaroo mouse", "little pocket mouse", "sagebrush vole", "gray-tailed vole",
+    "meadow vole", "prairie vole", "long-tailed vole", "heather vole", "pygmy mouse", "white-ankled mouse",
+    "harvest mouse", "grasshopper mouse", "least shrew", "prairie shrew", "mole", "prairie dog", "white-tailed prairie dog", "black-tailed prairie dog", "packrat", "woodrat", "cotton rat",
+    "tawny-bellied cotton rat"]
+    
+
     # PELT COLOURS
     all_pelt_colours: list = []
     ginger_colours: list = []
@@ -212,6 +248,97 @@ class Pelt:
             elif sprite_list[sprite] == "paw":
                 paw_accessories.append(sprite)
 
+    living_insects_accessories = []
+    for sprite_list in sprites.LIVING_INSECTS_DATA["sprite_list"]:
+        living_insects_accessories.extend(sprite_list)
+        for sprite in sprite_list:
+            if sprite_list[sprite] == "tail":
+                tail_accessories.append(sprite)
+            elif sprite_list[sprite] == "body":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "head":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "paw":
+                paw_accessories.append(sprite)
+
+    snakes_accessories = []
+    for sprite_list in sprites.SNAKES_DATA["sprite_list"]:
+        snakes_accessories.extend(sprite_list)
+        for sprite in sprite_list:
+            if sprite_list[sprite] == "tail":
+                tail_accessories.append(sprite)
+            elif sprite_list[sprite] == "body":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "head":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "paw":
+                paw_accessories.append(sprite)
+
+    ster_flowers_accessories = []
+    for sprite_list in sprites.STER_FLOWERS_DATA["sprite_list"]:
+        ster_flowers_accessories.extend(sprite_list)
+        for sprite in sprite_list:
+            if sprite_list[sprite] == "tail":
+                tail_accessories.append(sprite)
+            elif sprite_list[sprite] == "body":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "head":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "paw":
+                paw_accessories.append(sprite)
+
+    companions_accessories = []
+    for sprite_list in sprites.COMPANIONS_DATA["sprite_list"]:
+        companions_accessories.extend(sprite_list)
+        for sprite in sprite_list:
+            if sprite_list[sprite] == "tail":
+                tail_accessories.append(sprite)
+            elif sprite_list[sprite] == "body":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "head":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "paw":
+                paw_accessories.append(sprite)
+
+    random_accessories = []
+    for sprite_list in sprites.RANDOM_DATA["sprite_list"]:
+        random_accessories.extend(sprite_list)
+        for sprite in sprite_list:
+            if sprite_list[sprite] == "tail":
+                tail_accessories.append(sprite)
+            elif sprite_list[sprite] == "body":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "head":
+                body_accessories.append(sprite)
+            elif sprite_list[sprite] == "paw":
+                paw_accessories.append(sprite)
+
+    tail2_accessories = []
+    for sprite_list in sprites.TAIL2_DATA["sprite_list"]:
+            tail_accessories.extend(sprite_list)
+            for sprite in sprite_list:
+                if sprite_list[sprite] == "tail":
+                    tail_accessories.append(sprite)
+                elif sprite_list[sprite] == "body":
+                    body_accessories.append(sprite)
+                elif sprite_list[sprite] == "head":
+                    body_accessories.append(sprite)
+                elif sprite_list[sprite] == "paw":
+                    paw_accessories.append(sprite)
+    
+    bellamy_accessories = []
+    for sprite_list in sprites.BELLAMY_DATA["sprite_list"]:
+            bellamy_accessories.extend(sprite_list)
+            for sprite in sprite_list:
+                if sprite_list[sprite] == "tail":
+                    tail_accessories.append(sprite)
+                elif sprite_list[sprite] == "body":
+                    body_accessories.append(sprite)
+                elif sprite_list[sprite] == "head":
+                    body_accessories.append(sprite)
+                elif sprite_list[sprite] == "paw":
+                    paw_accessories.append(sprite)
+
     collar_accessories = []
     collar_styles = []
     if sprites.COLLAR_DATA["palette_map"]:
@@ -230,6 +357,13 @@ class Pelt:
         "PLANT": plant_accessories,
         "WILD": wild_accessories,
         "COLLAR": collar_accessories,
+        "LIVING_INSECTS": living_insects_accessories,
+        "SNAKES": snakes_accessories,
+        "STER_FLOWERS": ster_flowers_accessories,
+        "COMPANIONS": companions_accessories,
+        "RANDOM": random_accessories,
+        "TAIL2": tail2_accessories,
+        "BELLAMY": bellamy_accessories
     }
 
     """Holds all appearance information for a cat. """
@@ -238,6 +372,9 @@ class Pelt:
         self,
         name: str = "SingleColour",
         length: str = "short",
+        body: str = None,
+        texture: str = None,
+        scent: str = None,
         colour: str = "WHITE",
         white_patches: str = None,
         eye_color: str = "BLUE",
@@ -249,6 +386,7 @@ class Pelt:
         vitiligo: str = None,
         points: str = None,
         accessory: list = None,
+        fav_food: str = None,
         paralyzed: bool = False,
         opacity: int = 100,
         scars: list = None,
@@ -264,6 +402,9 @@ class Pelt:
         reverse: bool = False,
     ) -> None:
         self.name = name
+        self.body = body
+        self.texture = texture
+        self.scent = scent
         self.colour = colour
         self.white_patches = white_patches
         self.eye_colour = eye_color
@@ -277,6 +418,7 @@ class Pelt:
         self.points = points
         self.rebuild_sprite = True
         self._accessory = accessory
+        self.fav_food = fav_food
         self._paralyzed = paralyzed
         self.opacity = opacity
         self._scars = (
@@ -466,6 +608,10 @@ class Pelt:
     @staticmethod
     def generate_new_pelt(gender: str, parents: tuple = (), age: str = "adult"):
         new_pelt = Pelt()
+        new_pelt.body = choice(Pelt.body_types)
+        new_pelt.texture = choice(Pelt.texture)
+        new_pelt.scent = choice(Pelt.scent)
+        new_pelt.fav_food = choice(Pelt.fav_food)
 
         pelt_white = new_pelt.init_pattern_color(parents, gender)
         new_pelt.init_white_patches(pelt_white, parents)
@@ -546,6 +692,19 @@ class Pelt:
             self.tortie_marking = "MINIMALTHREE"
         elif self.tortie_marking == "MINIMAL4":
             self.tortie_marking = "MINIMALFOUR"
+
+        if self.body is None:
+            self.body = choice(Pelt.body_types)
+        
+        if self.texture is None:
+            self.texture = choice(Pelt.texture)
+
+        if self.scent is None:
+            self.scent = choice(Pelt.scent)
+
+        if self.fav_food is None:
+            self.fav_food = choice(Pelt.fav_food)
+
 
         if self.accessory is None:
             self.accessory = tuple()
@@ -959,7 +1118,9 @@ class Pelt:
 
         if acc_display_choice == 1:
             self.accessory = tuple(
-                (choice(Pelt.plant_accessories + Pelt.wild_accessories),)
+                (choice(Pelt.plant_accessories + Pelt.wild_accessories + Pelt.bellamy_accessories + Pelt.random_accessories
+                        + Pelt.companions_accessories + Pelt.living_insects_accessories + Pelt.tail2_accessories
+                        + Pelt.ster_flowers_accessories + Pelt.snakes_accessories),)
             )
         else:
             self.accessory = tuple()

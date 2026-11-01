@@ -1,0 +1,23 @@
+{
+    "spritesheet": "acc_living_insects",
+    "sprite_list": [
+        {
+            "BROWN SNAIL": "paw",
+            "RED SNAIL": "paw",
+            "WORM": "paw",
+            "BLUE SNAIL": "paw"
+        },
+        {
+            "ZEBRA ISOPOD": "paw",
+            "DUCKY ISOPOD": "paw",
+            "DAIRY COW ISOPOD": "paw",
+            "BEETLEJUICE ISOPOD": "paw"
+        },
+        {
+            "BEE": "head",
+            "RED LADYBUG": "paw",
+            "ORANGE LADYBUG": "paw",
+            "YELLOW LADYBUG": "paw"
+        }
+    ]
+}

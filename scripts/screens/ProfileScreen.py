@@ -788,6 +788,7 @@ class ProfileScreen(Screens):
             output += i18n.t(
                 "screens.profile.eyes_label", eyes=the_cat.pelt.describe_eyes()
             )
+
         # NEWLINE ----------
         output += "\n"
 
@@ -801,9 +802,44 @@ class ProfileScreen(Screens):
 
         # PELT LENGTH
         output += i18n.t(
-            "screens.profile.fur_label",
+             "screens.profile.fur_label",
             length=i18n.t(f"cat.pelts.fur_{the_cat.pelt.length}"),
         )
+        # NEWLINE ----------
+        output += "\n"
+        
+        # BODY TYPE
+        output += i18n.t(
+            "screens.profile.body_label",
+            body=the_cat.pelt.body or "stocky"
+        )
+        
+        # NEWLINE ----------
+        output += "\n"
+        
+        # TEXTURE
+        output += i18n.t(
+            "screens.profile.texture_label",
+            texture=the_cat.pelt.texture or "smooth"
+        )
+        
+        #NEWLINE ----------
+        output += "\n"
+        
+        # SCENT
+        output += i18n.t(
+            "screens.profile.scent_label",
+            scent=the_cat.pelt.scent or "musk"
+        )
+        #NEWLINE ----------
+        output += "\n"
+
+        # FAV FOOD
+        output += i18n.t(
+            "screens.profile.fav_food_label",
+            fav_food=the_cat.pelt.fav_food or "mouse"
+        )
+        
         # NEWLINE ----------
 
         # ACCESSORY

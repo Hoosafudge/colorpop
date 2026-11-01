@@ -36,6 +36,10 @@
         "eyes_label": "eyes: %{eyes}",
         "pelt_label": "pelt: %{pelt}",
         "fur_label": "fur length: %{length}",
+        "body_label": "body: %{body}",
+        "texture_label": "texture: %{texture}",
+        "scent_label": "scent: %{scent}",
+        "fav_food_label": "fav. prey: %{fav_food}",
         "accessory_label": "accessory: %{accessory}",
         "parent_label": {
             "one": "parent: %{parents}",

@@ -76,6 +76,10 @@ class NewCatFactory(BaseCatFactory, ABC):
             "ID": cls.get_free_id(),
             "gender_dict": gender_dict,
             "pelt": pelt,
+            "body": str,
+            "texture": str,
+            "scent": str,
+            "fav_food": str,
             "moons": moons,
             "status": status,
             "backstory": overrides.get(

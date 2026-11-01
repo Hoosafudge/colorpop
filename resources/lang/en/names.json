@@ -571,6 +571,87 @@
     "ICE": [
     "Fish", "Ice", "Frost", "Cold", "Frozen", "Snow", "Drift"
     ],
+    "WHWOOL": [
+    "White", "White", "Pale", "Snow", "Snowy", "Cloud", "Cloudy", "Milk", "Hail", "Frost", "Frozen", "Freeze", "Ice", "Icy", "Icicle",
+    "Blizzard", "Flurry", "Moon", "Light", "Bone", "Bright", "Swan", "Dove", "Cotton", "Hawthorn", "Laurel", "Wisp", "Silk", "Web",
+    "Fringe", "Ibis", "Air", "Bright", "Rime", "Ghost", "Privet", "Egg", "Glacier", "Goose", "Moth", "Moon", "Down", "Daisy", "Cold",
+    "Gardenia", "Hemlock", "Piper", "Plover", "Magnolia", "Birch", "Shiver", "Snow", "Snowy"
+    ],
+    "LGWOOL": [
+    "Gray", "Gray", "Silver", "Pale", "Light", "Cloud", "Cloudy", "Hail", "Frost", "Ice", "Icy", "Mouse", "Bright", "Fog", "Freeze",
+    "Frozen", "Stone", "Pebble", "Dove", "Sky", "Cotton", "Heather", "Ashen", "Tufted", "Pipit", "Azalea", "Pigeon", "Magnolia", "Birch",
+    "Fringe", "Mistle", "Icicle", "Rime", "Glacier", "Goose", "Blizzard", "Down", "Daisy", "Silk", "Web", "Cold", "Gravel", "Flax", "Shiver",
+    "Snow", "Snowy"
+    ],
+    "GRWOOL": [
+    "Gray", "Gray", "Shade", "Raven", "Crow", "Stone", "Dark", "Dark", "Night", "Cinder", "Ash", "Ashen", "Twilight", "Panther", "Bat",
+    "Smoke", "Smokey", "Shadow", "Bleak", "Rain", "Storm", "Pebble", "Mist", "Misty", "Warbler", "Wisp", "Thunder", "Shale", "Murk", "Charcoal",
+    "Flint", "Dusk", "Wolf", "Badger", "Raccoon", "Skulk", "Bluebell"
+    ],
+    "BLWOOL": [
+    "Black", "Black", "Black", "Shade", "Shaded", "Crow", "Raven", "Ebony", "Dark", "Grackle", "Bat", "Flint", "Storm", "Skunk",
+    "Night", "Shadow", "Scorch", "Midnight", "Pepper", "Pitch", "Bat", "Burnt", "Coal", "Ink", "Inky", "Murk", "Rat", "Magpie",
+    "Char", "Charred", "Mulberry", "Evening", "Dark", "Ghost", "Mud", "Spider", "Shale", "Panther", "Starling", "Soot", "Wolf", "Badger",
+    "Raccoon", "Skulk"
+    ],
+    "BRWOOL": [
+    "Antler", "Bear", "Bittern", "Bluff", "Brown", "Burdock", "Buzzard", "Cougar", "Crag", "Cricket", "Dark", "Deer", "Dust", "Falcon", "Fallow", "Fawn", "Ferret",
+    "Grouse", "Moth", "Mud", "Python", "Quail", "Quill", "Root", "Sable", "Shade", "Shrew", "Squirrel", "Stag", "Wood", "Wren",
+    "Char", "Charred"
+    ],
+    "REDWOOL": [
+    "Ginger", "Ginger", "Red", "Red", "Fire", "Flame", "Ember", "Oak", "Shade", "Russet", "Fuchsia", "Hollyhock", "Warm",
+    "Rowan", "Fox", "Orange", "Copper", "Cinnamon", "Burn", "Burnt", "Robin", "Oleander", "Scarlet", "Rust", "Lyre",
+    "Robin", "Berry", "Ochre", "Auburn", "Pumpkin", "Burnet", "Cedar", "Blazing", "Carnation", "Oriole", "Saffron", "Scorch"
+    ],
+    "ORWOOL": [
+    "Ginger", "Ginger", "Red", "Red", "Fire", "Flame", "Ember", "Oak", "Shade", "Russet", "Fuchsia", "Hollyhock", "Warm",
+    "Rowan", "Fox", "Orange", "Copper", "Cinnamon", "Burn", "Burnt", "Robin", "Oleander", "Scarlet", "Rust", "Lyre",
+    "Robin", "Berry", "Ochre", "Auburn", "Pumpkin", "Burnet", "Cedar", "Blazing", "Carnation", "Oriole", "Saffron", "Scorch"
+    ],
+    "YELWOOL": [
+    "Honey", "Honey", "Sweet", "Gold", "Golden", "Yellow", "Sun", "Sunny", "Light", "Lightning", "Thunder", "Day", "Fig",
+    "Tawny", "Lion", "Dandelion", "Marigold", "Warm", "Amber", "Canary", "Daffodil", "Bright", "Daisy", "Nectar", "Tansy", "Flower",
+    "Buttercup", "Straw", "Glint", "Auburn", "Blazing", "Furze", "Gorse", "Oriole", "Cougar", "Wheat", "Shine", "Bee", "Bay", "Bumble",
+    "Rye"
+    ],
+    "LIWOOL": [
+    "Algae", "Moss"
+    ],
+    "GREWOOL": [
+    "Algae", "Moss"
+    ],
+    "LBWOOL": [
+    "Fish", "Ice", "Frost", "Cold"
+    ],
+    "COPPER": [
+    "Copper", "Metal"
+    ],
+    "BIRCH": [
+    "White", "White", "Pale", "Snow", "Snowy", "Cloud", "Cloudy", "Milk", "Hail", "Frost", "Frozen", "Freeze", "Ice", "Icy", "Icicle",
+    "Blizzard", "Flurry", "Moon", "Light", "Bone", "Bright", "Swan", "Dove", "Cotton", "Hawthorn", "Laurel", "Wisp", "Silk", "Web",
+    "Fringe", "Ibis", "Air", "Bright", "Rime", "Ghost", "Privet", "Egg", "Glacier", "Goose", "Moth", "Moon", "Down", "Daisy", "Cold",
+    "Gardenia", "Hemlock", "Piper", "Plover", "Magnolia", "Birch", "Shiver", "Snow", "Snowy"
+    ],
+    "MANGROVE": [
+    "Antler", "Bear", "Bittern", "Bluff", "Brown", "Burdock", "Buzzard", "Cougar", "Crag", "Cricket", "Dark", "Deer", "Dust", "Falcon", "Fallow", "Fawn", "Ferret",
+    "Grouse", "Moth", "Mud", "Python", "Quail", "Quill", "Root", "Sable", "Shade", "Shrew", "Squirrel", "Stag", "Wood", "Wren",
+    "Char", "Charred"
+    ],
+    "POPLAR": [
+    "Antler", "Bear", "Bittern", "Bluff", "Brown", "Burdock", "Buzzard", "Cougar", "Crag", "Cricket", "Dark", "Deer", "Dust", "Falcon", "Fallow", "Fawn", "Ferret",
+    "Grouse", "Moth", "Mud", "Python", "Quail", "Quill", "Root", "Sable", "Shade", "Shrew", "Squirrel", "Stag", "Wood", "Wren",
+    "Char", "Charred"
+    ],
+    "EMERALD": [
+    "Emerald", "Gem"
+    ],
+    "DIAMOND": [
+    "Diamond", "Gem", "Crystal"
+    ],
+    "AMETHYST": [
+    "Amethyst", "Gem"
+    ],
     "WHITETIGER": [
     "White", "Tiger", "Moon", "Snowy", "Snow", "Leopard", "Ice", "Frost", "Alabaster", "Pale", "Silver", "Lucent", "Birch", "Badger", "Zebra",
     "Mottled"
@@ -1130,6 +1211,66 @@
     ],
     "ICE": [
     "stream", "river", "flow", "crack", "frost", "ice"
+    ],
+    "WHWOOL": [
+    "cloud", "frost", "moon", "web", "dove", "ice", "snow", "egg", "shell", "smoke", "bone", "chill", "fog", "freeze",
+    "gale", "ghost", "goose", "flash", "moth", "stone", "pebble", "rock"
+    ],
+    "LGWOOL": [
+    "cloud", "frost", "web", "mist", "ice", "snow", "egg", "minnow", "smoke", "dust", "bone", "chill", "fog", "freeze",
+    "gale", "goose", "flash", "ghost", "stone", "pebble", "rock", "boulder"
+    ],
+    "GRWOOL": [
+    "storm", "ash", "shade", "pebble", "rock", "stone", "boulder", "smoke", "bat", "cinder", "night", "raven", "crow", "burn",
+    "shadow", "dusk", "badger", "raccoon"
+    ],
+    "BLWOOL": [
+    "storm", "ash", "shade", "pebble", "rock", "stone", "boulder", "smoke", "bat", "cinder", "night", "raven", "crow", "burn",
+    "shadow", "dusk", "badger", "raccoon"
+    ],
+    "BRWOOL": [
+    "root","twig", "wood", "moth", "bark", "branch", "burr", "back"
+    ],
+    "REDWOOL": [
+    "burn", "blaze", "flame", "flare", "ember", "fox", "vixen"
+    ],
+    "ORWOOL": [
+    "burn", "blaze", "flame", "flare", "ember", "fox", "vixen"
+    ],
+    "YELWOOL": [
+    "sun", "beam", "shine", "spark", "blaze", "honey", "honey", "flash", "bee", "lion", "cougar", "bright", "bee", "root", "bumble",
+    "flower", "gorse"
+    ],
+    "LIWOOL": [
+    "sprout", "leaf"
+    ],
+    "GREWOOL": [
+    "sprout", "leaf"
+    ],
+    "LBWOOL": [
+    "stream", "river", "flow", "crack", "frost", "ice"
+    ],
+    "COPPER": [
+    "copper"
+    ],
+    "BIRCH": [
+    "cloud", "frost", "moon", "web", "dove", "ice", "snow", "egg", "shell", "smoke", "bone", "chill", "fog", "freeze",
+    "gale", "ghost", "goose", "flash", "moth", "stone", "pebble", "rock"
+    ],
+    "MANGROVE": [
+    "root","twig", "wood", "moth", "bark", "branch", "burr", "back"
+    ],
+    "POPLAR": [
+    "root","twig", "wood", "moth", "bark", "branch", "burr", "back"
+    ],
+    "EMERALD": [
+    "emerald", "gem"
+    ],
+    "DIAMOND": [
+    "diamond", "gem", "crystal"
+    ],
+    "AMETHYST": [
+    "amethyst", "gem"
     ],
     "WHITETIGER": [
     "snow", "tiger", "frost", "moon", "winter", "leopard", "ice", "snow", "bone", "chill", "ghost", "phantom", "specter", "gale", "storm"

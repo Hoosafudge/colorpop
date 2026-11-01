@@ -126,6 +126,10 @@ class Cat:
         ID: str,
         gender_dict: GenderDict,
         pelt: Pelt,
+        body: str,
+        texture: str,
+        scent: str,
+        fav_food: str,
         moons: int,
         status: Status,
         backstory: str,
@@ -2313,6 +2317,10 @@ class Cat:
                 "opacity": self.pelt.opacity,
                 "prevent_fading": self.prevent_fading,
                 "favourite": self.favourite,
+                "pelt_body": self.pelt.body,
+                "pelt_texture": self.pelt.texture,
+                "pelt_fav_food": self.pelt.fav_food,
+                "pelt_scent": self.pelt.scent,
             }
 
     def determine_next_and_previous_cats(
