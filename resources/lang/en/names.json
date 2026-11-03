@@ -169,7 +169,7 @@
     "Gardenia", "Hemlock", "Piper", "Plover", "Magnolia", "Birch", "Shiver", "Snow", "Snowy", "Edelweiss"
     ],
     "CHINCHILLA": [
-      "White", "Gray", "Silver", "Pale", "Snow", "Snowy", "Cloud", "Cloudy", "Milk", "Hail", "Frost", "Frozen", "Freeze", "Ice", "Icy", "Icicle",
+    "White", "Gray", "Silver", "Pale", "Snow", "Snowy", "Cloud", "Cloudy", "Milk", "Hail", "Frost", "Frozen", "Freeze", "Ice", "Icy", "Icicle",
     "Blizzard", "Flurry", "Moon", "Light", "Bone", "Bright", "Swan", "Dove", "Cotton", "Hawthorn", "Laurel", "Wisp", "Silk", "Web",
     "Fringe", "Ibis", "Air", "Bright", "Rime", "Ghost", "Privet", "Egg", "Glacier", "Goose", "Moth", "Moon", "Down", "Daisy", "Cold",
     "Gardenia", "Hemlock", "Piper", "Plover", "Magnolia", "Birch", "Shiver", "Snow", "Snowy", "Fog", "Pigeon", "Stone", "Gravel", "Flax",
@@ -701,6 +701,13 @@
     "BUZZY": [
     "Gold", "Golden", "Buzzy", "Buzzing", "Bumble", "Bumbling", "Buzz", "Bee", "Yellow", "Daffodil", "Sunflower", "Sweet", "Humble", "Gentle", "Clever", "Flutter", "Flit", "Fidgit", "Sun", "Sunny", "Bright", "Brilliant", "Passionate", "Dawn", "Light", "Fluffy", "Fuzzy", "Fuzz", "Honey"
     ],
+    "CHINCHILLA-C": [
+    "White", "Gray", "Silver", "Pale", "Snow", "Snowy", "Cloud", "Cloudy", "Milk", "Hail", "Frost", "Frozen", "Freeze", "Ice", "Icy", "Icicle",
+    "Blizzard", "Flurry", "Moon", "Light", "Bone", "Bright", "Swan", "Dove", "Cotton", "Hawthorn", "Laurel", "Wisp", "Silk", "Web",
+    "Fringe", "Ibis", "Air", "Bright", "Rime", "Ghost", "Privet", "Egg", "Glacier", "Goose", "Moth", "Moon", "Down", "Daisy", "Cold",
+    "Gardenia", "Hemlock", "Piper", "Plover", "Magnolia", "Birch", "Shiver", "Snow", "Snowy", "Fog", "Pigeon", "Stone", "Gravel", "Flax",
+    "Ash", "Ashen", "Edelweiss"
+    ],
     "IRONGREY": [
     "Iron", "Grey", "Stone", "Boulder", "Basalt", "Pebble", "Storm", "Shadow", "Shroud", "Umbrage", "Night", "Squall", "Granite", "Black", 
     "Char", "Rock", "Hazy", "Murk", "Murky", "Ash", "Ashen", "Cinder", "Cindered", "Smoke", "Smokey", "Charred", "Scorch", "Scorched", "Soot",
@@ -980,7 +987,7 @@
     "CHINCHILLA": [
     "cloud", "frost", "moon", "web", "dove", "ice", "snow", "egg", "shell", "smoke", "bone", "chill", "fog", "freeze",
     "gale", "ghost", "goose", "flash", "moth", "stone", "pebble", "rock", "ash", "dust"
-      ],
+    ],
     "PALEGREY": [
 	"cloud", "frost", "web", "mist", "ice", "snow", "egg", "minnow", "smoke", "dust", "bone", "chill", "fog", "freeze", 
 	"gale", "goose", "flash", "ghost", "stone", "pebble", "rock", "boulder"
@@ -1321,6 +1328,10 @@
     ],
     "BUZZY": [
     "heart", "fuzz", "bee", "bumble", "sun", "flutter", "fidgit", "bright", "flit", "flight", "buzz", "dawn", "light", "fluff", "honey"
+    ],
+    "CHINCHILLA-C": [
+    "cloud", "frost", "moon", "web", "dove", "ice", "snow", "egg", "shell", "smoke", "bone", "chill", "fog", "freeze",
+    "gale", "ghost", "goose", "flash", "moth", "stone", "pebble", "rock", "ash", "dust"
     ],
     "IRONGREY": [
     "stone", "boulder", "pebble", "storm", "shadow", "cloak", "shroud", "night", "squall", "leaf", "rock"

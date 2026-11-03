@@ -5,6 +5,10 @@
             "many": "pale"
         },
         "FULLWHITE": "white",
+        "CHINCHILLA": {
+            "one": "chinchilla",
+            "many": "chinchilla"
+        },
         "PALEGREY": {
             "one": "gray",
             "many": "pale gray"
@@ -113,7 +117,7 @@
             "one": "aluminum",
             "many": "aluminum"
         },
-        "CHINCHILLA": {
+        "CHINCHILLA-C": {
             "one": "chinchilla",
             "many": "chinchilla"
         },

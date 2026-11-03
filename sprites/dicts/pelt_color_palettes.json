@@ -1914,7 +1914,7 @@
         "newborn_exotic_light_pattern": "#8F8F99",
         "newborn_exotic_muzzle": "#484953"
 },
-    "CHINCHILLA": {
+    "CHINCHILLA-C": {
         "base": "#B1B2BC",
         "base_gradient_bottom": "#D1D2DE",
         "base_gradient_top": "#80818a",
