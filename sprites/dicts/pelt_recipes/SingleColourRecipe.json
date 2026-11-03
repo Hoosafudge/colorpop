@@ -94,10 +94,9 @@
         },
         {
             "colors": "HONEY",
-            "layer_order": ["1", "2", "4"],
             "layers":
             {
-                "4": {
+                "3": {
                     "group_name": "SIMPLETOPGRAD",
                     "color": "singlecolour_honey_base_gradient_top"
                 }
@@ -959,6 +958,24 @@
                 "4": {
                     "group_name": "SINGLESTRIPEPATTERN",
                     "color": "masked_light_pattern"
+                }
+            }
+        },
+        {
+            "colors": "CHINCHILLA",
+            "layer_order": ["1", "2", "3", "4", ["5", "6"], ["4.5", "6"]],
+            "layers": {
+                "5": {
+                    "group_name": "BACKTAILPATTERNGRAD",
+                    "color": "pattern_gradient_top"
+                },
+                "4.5": {
+                    "group_name": "FRONTPATTERNGRAD",
+                    "color": "chinchilla_pattern_gradient_front"
+                },
+                "3": {
+                    "group_name": "BACKTAILPATTERNGRAD",
+                    "color": "base_gradient_top"
                 }
             }
         }
