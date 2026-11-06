@@ -1,5 +1,5 @@
 # whether or not development tools are disabled
-dev_tools = false
+dev_tools = true
 
 [seasons]
   # set to true to force the season to be locked at the Clan's starting_season
@@ -755,7 +755,7 @@ dev_tools = false
 
 [clan_creation]
   # Set this to -1 for it to be infinite
-  rerolls = 3
+  rerolls = -1
 
   # other clans will start with a random relation between the two numbers
   starting_clan_relation = [8, 12]
