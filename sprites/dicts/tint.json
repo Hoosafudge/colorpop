@@ -262,7 +262,8 @@
     "HOOKTAIL": "all",
     "GLOOMTAIL": "all",
     "BONETAIL": "all",
-    "FRACKTAIL": "all"
+    "FRACKTAIL": "all",
+    "MALTESE": "all"
   },
   "possible_tints": {
     "basic": ["pink", "gray", "red", "orange", "warmdilute", "patina", "tawny", "densecocoa"],
@@ -289,7 +290,8 @@
 "beige", "cream", "steel", "cobalt", "ebony", "sooty", "sunrise", "lightpink", "peach", "salmon", "buttercup", "bananaone", "bananatwo", "periwinkle",
 "navy", "dust", "fall", "sunny", "green", "yolk", "bluesky", "gold", "browngray", "grapefruit", "pinkgray", "flower", "lightorange", "rust",
 "lightpurple", "sunflower", "wood", "kiwi", "dullgreen", "graygreen", "olive", "sky", "lightblue", "paledilute", "pinkish", "purpledilute", "reddilute",
-"creamdilute", "ghostdilute", "purplediluteeve", "pinkdiluteeve", "patinaeve", "darkeve", "darkpurpleeve", "auburneve", "plumeve"]
+"creamdilute", "ghostdilute", "purplediluteeve", "pinkdiluteeve", "patinaeve", "darkeve", "darkpurpleeve", "auburneve", "plumeve", "cherry", 
+"darkcherrydilute"]
   },
   "tint_colours":
   {
@@ -368,6 +370,7 @@
     "auburneve": [222, 147, 106],
     "plumeve": [110, 77, 85],
     "patinaeve": [209, 219, 208],
+    "cherry": [228, 75, 69],
     "none": null
   },
   "dilute_tint_colours":
@@ -385,6 +388,7 @@
     "ghostdilute": [30, 30, 30],
     "purplediluteeve": [31, 25, 36],
     "pinkdiluteeve": [36, 7, 16],
+    "darkcherrydilute": [78, 19, 17],
     "none": null
   },
   "remove_tone_tint_colours":

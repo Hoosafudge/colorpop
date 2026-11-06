@@ -1045,6 +1045,10 @@
             "one": "peculiar",
             "many": "robo-dragonlike"
         },
+        "MALTESE": {
+            "one": "maltese",
+            "many": "maltese tiger"
+        },
 
         "SingleColour": "single color",
         "SingleColour_long": "%{color}",

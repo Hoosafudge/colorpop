@@ -962,6 +962,13 @@
     ],
     "VAMPIRE": [
     "Blood", "Bloody", "Bat", "Shadow", "Dark", "Bite", "Fang", "Tooth", "Mist", "Wolf", "Fog", "Leather", "Leathery", "Black", "Red", "Bleeding", "Drink", "Scarlet"
+    ],
+    "MALTESE": [
+    "Abyss", "Abyssal", "Agama", "Azure", "Aqua", "Aquatic", "Betta", "Blue", "Bluebell", "Bell", "Cascade", "Cichlid", "Coast", "Coastal", "Coral", 
+    "Cornflower", "Cove", "Crayfish", "Current", "Dart", "Deep", "Dive", "Diving", "Fish", "Flood", "Flow", "Flowing", "Gem", "Guppy", "Iguana", "Indigo", 
+    "Jay", "Lagoon", "Liquid", "Lobster", "Macaw", "Midnight", "Morpho", "Ocean", "Octopus", "Peacock", "Pond", "Pool", "Rain", "Rainbowfish", "Rainy", 
+    "Reef", "Ripple", "River", "Sapphire", "Sea", "Shark", "Shore", "Slug", "Splash", "Surf", "Tidal", "Tide", "Tsunami", "Water", "Waterfall", "Wave", 
+    "Wet", "Whale", "Tiger", "Creek"
     ]
   },
 	
@@ -1569,6 +1576,9 @@
     ],
     "VAMPIRE": [
     "wing", "wings", "soar", "flight", "fang", "spatter", "splatter", "hiss", "screech", "prowl", "splash", "mist", "howl", "lurk", "loom", "tooth", "shadow"
+    ],
+    "MALTESE": [
+    "wave", "stream", "creek", "water", "pond", "pool", "jewel", "river", "dive", "diver", "swim", "stripe", "shadow"
     ]
   },
 

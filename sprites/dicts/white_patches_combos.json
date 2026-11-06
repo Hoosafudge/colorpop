@@ -180,7 +180,7 @@
             "littleCHEST_STREAK",
             "littleBELLY_MIN",
             "littleCHEST_SMALL"
-        ]        
+        ]
     },
     "mid": {
         "DOUGIE": [
@@ -888,13 +888,13 @@
             "littleLEG_FRONT_LEFT_HIGH",
             "midBIB_FULL",
             "midCHEST_FULL"
-	    ],
+        ],
         "SHORELINE": [
             "midFCTWO_REDUCED",
             "midMITAINE",
             "midSAVANNAH",
             "midFADESPOTS"
-		]
+        ]
     },
     "mostly": {
         "VAN": [
@@ -1087,6 +1087,10 @@
             "midTAIL_REVERSE_HIGH",
             "highCAKE_REDUCED",
             "highFRECKLES"
+        ],
+        "CHIPFLAKE_POINT": [
+            "midFADESPOTS",
+            "mostlyCHIPFLAKE"
         ]
     }
 }

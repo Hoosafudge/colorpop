@@ -261,7 +261,8 @@
             "HOOKTAIL": "ginger",
             "GLOOMTAIL": "black",
             "BONETAIL": "brown",
-            "FRACKTAIL": "white"
+            "FRACKTAIL": "white",
+            "MALTESE": "black"
         },
         "pattern_types": {
             "Tabby": "tabbies",
